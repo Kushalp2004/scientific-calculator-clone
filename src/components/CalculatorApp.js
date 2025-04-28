@@ -1,6 +1,7 @@
 // src/components/CalculatorApp.js
 import React, { useEffect } from 'react';
 import { useCalculator } from '../context/CalculatorContext';
+import VoiceButton from './VoiceButton'; 
 import ThemeToggle from './ThemeToggle';
 import Display from './Display';
 import Keypad from './Keypad';
@@ -36,6 +37,7 @@ const CalculatorApp = () => {
       <h1>Scientific Calculator Clone</h1>
       <ThemeToggle />
       <AngleToggle />
+      <VoiceButton />
       <Display />
       <Keypad />
       <History />
