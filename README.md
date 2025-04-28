@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Scientific Calculator Clone 🔢
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 A modern, responsive, and exam-safe Scientific Calculator built with React.js!  
+🎤 Supports Hybrid Input: Keyboard + Voice Recognition!
 
-## Available Scripts
+### 🌟 Features:
+- ✅ Basic operations (+, -, ×, ÷)
+- ✅ Scientific functions (sin, cos, tan, log, ln, exp, √, ^)
+- ✅ Memory functions (M+, M-, MR, MC)
+- ✅ Degree / Radian mode switching
+- ✅ Light / Dark Theme toggle
+- ✅ History log of calculations
+- ✅ Full keyboard typing support
+- ✅ Voice Recognition (Speak your calculation!)
+- ✅ Error handling and clean UI
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### 📸 Live Demo:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👉 [Scientific Calculator LIVE](https://scientific-calculator-clone.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+### 🛠️ Built With:
+- React.js
+- math.js
+- Web Speech API (for Voice Recognition)
+- CSS3 (Custom styling + transitions)
+- Deployed with Vercel
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### 🏷️ Deployment:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)](https://scientific-calculator-clone.vercel.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 📚 How to Run Locally:
+```bash
+git clone https://github.com/Kushalp2004/scientific-calculator-clone.git
+cd scientific-calculator-clone
+npm install
+npm start
 
-### `npm run eject`
+✨ Future Enhancements:
+Improve voice command parsing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Add multiple themes
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+PWA Support (Installable on phone)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🔥 Author:
+Kushal P (GitHub: @Kushalp2004)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+yaml
+Copy
+Edit
 
-## Learn More
+✅ This will make your GitHub repo look **high-quality** instantly!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 🏷️ 2. Add Deployed on Vercel Badge
 
-### Code Splitting
+✅ Already included in the above `README.md` content:  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This line:
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```markdown
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)](https://scientific
