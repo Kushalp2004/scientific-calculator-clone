@@ -1,0 +1,24 @@
+.display-container {
+  background-color: var(--button-bg);
+  padding: 25px;
+  margin: 20px auto;
+  border-radius: 16px;
+  width: 90%;
+  max-width: 400px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  font-family: 'Roboto Mono', monospace;
+  text-align: right;
+}
+
+.expression {
+  font-size: 1.8rem;
+  color: var(--text-color);
+  margin-bottom: 10px;
+  word-wrap: break-word;
+}
+
+.result {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: var(--text-color);
+}

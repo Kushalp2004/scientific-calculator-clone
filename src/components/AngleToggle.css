@@ -1,0 +1,22 @@
+.angle-toggle {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .angle-toggle button {
+    background-color: var(--button-bg);
+    color: var(--text-color);
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .angle-toggle button:hover {
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    transform: scale(1.05);
+  }
+  

@@ -1,0 +1,35 @@
+/* src/components/Keypad.css */
+
+.keypad-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin: 20px auto;
+  align-items: center;
+}
+
+.special-buttons {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.keypad-main {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.numbers {
+  display: grid;
+  grid-template-columns: repeat(3, 80px);
+  grid-gap: 15px;
+}
+
+.operations,
+.scientific {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
