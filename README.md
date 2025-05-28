@@ -51,22 +51,4 @@ Add multiple themes
 
 PWA Support (Installable on phone)
 
-🔥 Author:
-Kushal P (GitHub: @Kushalp2004)
-
-yaml
-Copy
-Edit
-
-✅ This will make your GitHub repo look **high-quality** instantly!
-
 ---
-
-# 🏷️ 2. Add Deployed on Vercel Badge
-
-✅ Already included in the above `README.md` content:  
-
-This line:
-
-```markdown
-[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)](https://scientific
